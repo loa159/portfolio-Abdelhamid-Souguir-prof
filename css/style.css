@@ -1,8 +1,7 @@
 /*
-Template Name: Tunis - Personal Portfolio
-Author: celtano
-Author URI: http://themeforest.net/user/celtano
-Description: Tunis - Personal Portfolio
+
+Author: abdelhamid Souguir
+Description: Personal Portfolio= Abdelhamid Souguir
 Version: 1.0
 */
 
@@ -686,7 +685,7 @@ body.light hr.separator {
 }
 
 .home .home-details h1 {
-  font-size: 51px;
+  font-size: 200px;
   line-height: 62px;
   font-weight: 700;
   margin: 18px 0 10px;
@@ -1461,7 +1460,7 @@ body.blog-post article img {
   }
 
   .home .home-details h1 {
-    font-size: 38px;
+    font-size: 20px;
     line-height: 48px;
     margin: 29px 0 13px;
   }
